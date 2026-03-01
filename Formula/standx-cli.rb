@@ -1,8 +1,8 @@
 class StandxCli < Formula
   desc "CLI tool for StandX perpetual DEX"
   homepage "https://github.com/wjllance/standx-cli"
-  url "https://github.com/wjllance/standx-cli/archive/refs/tags/v0.6.1.tar.gz"
-  sha256 "7af0348f61e0852896ec29ec4ae4127094773f39574cb7f93a22a70003374cbf"
+  url "https://github.com/wjllance/standx-cli/archive/refs/tags/v0.6.2-rc.1.tar.gz"
+  sha256 "200dcfab091f48c81c62017d49f4d392ab7379e93869818a5deb0c9645a46520"
   license "MIT"
 
   depends_on "rust" => :build
